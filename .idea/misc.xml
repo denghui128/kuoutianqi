@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudio/coolweather/app/src/main/res/drawable/fas.xml" value="0.2490740740740741" />
+        <entry key="..\:/AndroidStudio/coolweather/app/src/main/res/layout/activity_linear_recycler_view.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidStudio/coolweather/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/AndroidStudio/coolweather/app/src/main/res/layout/activity_recycler_view.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidStudio/coolweather/app/src/main/res/layout/activity_weather.xml" value="0.2" />
+        <entry key="..\:/AndroidStudio/coolweather/app/src/main/res/layout/aqi.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidStudio/coolweather/app/src/main/res/layout/choose_area.xml" value="0.184375" />
+        <entry key="..\:/AndroidStudio/coolweather/app/src/main/res/layout/forecast.xml" value="0.2318840579710145" />
+        <entry key="..\:/AndroidStudio/coolweather/app/src/main/res/layout/forecast_item.xml" value="0.2318840579710145" />
+        <entry key="..\:/AndroidStudio/coolweather/app/src/main/res/layout/fragment_blank.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidStudio/coolweather/app/src/main/res/layout/fragment_blank2.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidStudio/coolweather/app/src/main/res/layout/layout_linear_item.xml" value="0.2" />
+        <entry key="..\:/AndroidStudio/coolweather/app/src/main/res/layout/now.xml" value="0.12335359675785208" />
+        <entry key="..\:/AndroidStudio/coolweather/app/src/main/res/layout/suggestion.xml" value="0.20018115942028986" />
+        <entry key="..\:/AndroidStudio/coolweather/app/src/main/res/layout/title.xml" value="0.2318840579710145" />
+        <entry key="..\:/AndroidStudio/coolweather/app/src/main/res/xml/fgh.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidStudio/coolweather/app/src/main/res/xml/litepal.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidStudio/coolweather/app/src/main/res/xml/litepall.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidStudio/coolweather/app/src/main/res/xml/network_security_config.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidStudio/sdk/platforms/android-31/data/res/layout/simple_list_item_1.xml" value="0.25364583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
